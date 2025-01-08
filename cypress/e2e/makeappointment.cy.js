@@ -9,8 +9,10 @@ describe ("Make Appointment",()=>{
         loginPage.kuraLogin();
 
     })
+    // define the file class & add here
     it("make appointmnet",()=>{
         makeAppointment.userAppointment();
+
 
    })
 })
